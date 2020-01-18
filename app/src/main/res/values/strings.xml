@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">preferencesTester</string>
+    <string name="pref_check_box_key">pref_check_box_key</string>
+    <string name="pref_check_box_false">check box is false</string>
+    <string name="pref_check_box_true">check box is true</string>
+    <string name="pref_check_box_label">check box</string>
+    <string name="pref_edit_box_default_value_sec">edit box</string>
+    <string name="pref_edit_box_key">pref_edit_box_key</string>
+    <string name="pref_edit_box_label">et label</string>
+</resources>
